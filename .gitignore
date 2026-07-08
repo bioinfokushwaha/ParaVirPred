@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Model files — do not commit large model weights to git
+# Upload them separately (Google Drive, Zenodo, HuggingFace Hub, etc.)
+*.pkl
+*.pth
+*.pt
+*.bin
+*.h5
+
+# Output files
+*.csv
+*.xlsx
+predictions_output*
+
+# FASTA inputs (usually large, keep out of repo)
+*.fasta
+*.fa
+*.faa
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
