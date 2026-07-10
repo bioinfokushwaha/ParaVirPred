@@ -156,7 +156,7 @@ pip install -r requirements.txt
 
 ## Downloading Models
 
-Download your chosen model files from the **ParaVirPred web platform** (Downloads page) and place them in the same folder as `predict_virulence.py`, or in any directory and pass the full path with `-m`.
+Download your chosen model files from the **ParaVirPred web platform** (https://bioinfo.niab.res.in/ParaVirPred) and place them in the same folder as `predict_virulence.py`, or in any directory and pass the full path with `-m`.
 
 **Important:** Do not rename model files — the variant is auto-detected from the filename. Keep names like `esm2_only_svm.pkl`, `prott5_physchem_dnn.pth`, etc.
 
