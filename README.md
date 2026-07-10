@@ -1,5 +1,5 @@
-# # ParaVirPred — Machine learning based virulence prediction in parasites(Standalone command-line)
-> **Offline command-line companion to the [ParaVirPred](https://paravirpred.app) web platform.**
+ ParaVirPred — Machine learning based virulence prediction in parasites(command-line)
+> **command-line companion to the [ParaVirPred](https://paravirpred.app) web platform.**
 > Predict virulence  of parasitic proteins using pre-trained machine learning and deep learning models — no internet connection required after setup.
 
 ---
@@ -97,7 +97,7 @@ The ParaVirPred models were developed, trained, and evaluated on a workstation w
 | Processor | 12th Gen Intel® Core™ i9-12900 |
 | CPU | 16 physical cores (24 logical threads) |
 | GPU | NVIDIA GeForce RTX 3060 (12 GB VRAM) |
-| RAM | XX GB |
+| RAM | 32 GB |
 | Operating System | Ubuntu Linux (64-bit) |
 | CUDA Version | CUDA 13.2 |
 
