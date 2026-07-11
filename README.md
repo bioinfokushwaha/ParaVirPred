@@ -1,4 +1,4 @@
- ## **ParaVirPred — Machine learning based virulence prediction in parasites(command-line)**
+ ## **ParaVirPred — Machine learning based virulence prediction tool in parasites(command-line)**
 > **command-line companion to the [ParaVirPred](https://paravirpred.app) web platform.**
 > Predict virulence  of parasitic proteins using pre-trained machine learning and deep learning models — no internet connection required after setup.
 
